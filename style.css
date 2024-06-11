@@ -13,7 +13,7 @@
 		
 }
 .row{
-	padding-top:180px;
+	padding-top:140px;
 }
 .row::after{
 	content:"";
@@ -35,7 +35,7 @@ header{
 	width:100%;
 	padding:0px;
 	position:fixed;
-	height:190px;
+	height:150px;
 	
 	
 }
@@ -125,5 +125,5 @@ text-align:center;
 .contacts{
 	
 	background-color:white;
-	padding-left:100px;
+	padding-left:50px;
 }
