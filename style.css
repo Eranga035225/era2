@@ -13,7 +13,7 @@
 		
 }
 .row{
-	padding-top:180px;
+	padding-top:200px;
 }
 .row::after{
 	content:"";
@@ -35,7 +35,7 @@ header{
 	width:100%;
 	padding:0px;
 	position:fixed;
-	height:190px;
+	height:210px;
 	
 	
 }
@@ -44,7 +44,7 @@ header{
 
 
 header h1{
-	font-size:50px;
+	font-size:40px;
 	color:white;
 	padding-top:0px;
 }
@@ -88,10 +88,7 @@ h3{
 	text-align:center;
 	
 }
-.Destinations h2{
-	padding-left:100px;
-	
-}
+
 .Home h2{
 	
 text-align:center;	
